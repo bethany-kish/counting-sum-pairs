@@ -19,7 +19,7 @@ public class CountingSumPairs {
       int pairs = 0;
       ArrayList<Integer> unmatchedNumbers = new ArrayList<>();
 
-      for(int i: numbers){cd
+      for(int i: numbers){
           //number required to make the goalValue
           int diff = goalValue - i;
 
